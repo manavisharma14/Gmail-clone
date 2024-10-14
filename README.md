@@ -12,3 +12,10 @@ The application provides a user-friendly interface inspired by Gmail, allowing u
 - Delete emails and restore them from the Bin.
 - Star important emails.
 - Responsive design similar to Gmail.
+
+
+# Technologies Used
+- **Frontend**: React.js, Material-UI
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Email Service**: SMTPJS (for email sending functionality)
